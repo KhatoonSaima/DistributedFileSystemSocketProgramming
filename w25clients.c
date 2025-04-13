@@ -56,10 +56,8 @@
  * - Example valid path: ~S1/folder/sub/file.txt
  * - Example invalid path: /absolute/path/file.txt
  * 
- * Authors: Saima Khatoon and Lokesh Jayachandran
+ * Author: Saima Khatoon
  * Date: 09-04-2025
- * Course: COMP-8567
- * Institution: University of Windsor
  */
 #include <stdio.h>
 #include <stdlib.h>

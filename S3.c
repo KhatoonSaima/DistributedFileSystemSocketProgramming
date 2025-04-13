@@ -35,10 +35,8 @@
  * - Validates all paths to prevent traversal attacks
  * - Rejects non-TXT file operations
  * 
- * Authors: Saima Khatoon and Lokesh Jayachandran
+ * Author: Saima Khatoon
  * Date: 09-04-2025
- * Course: COMP-8567
- * Institution: University of Windsor
  */
 #include <stdio.h>
 #include <stdlib.h>
